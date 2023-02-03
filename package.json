@@ -1,15 +1,19 @@
 {
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
   "name": "db",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "index.js"
+  "scripts": {
+    "start": "node index.js",
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/rajesh-adhikari/db-.git",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  
+      
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
